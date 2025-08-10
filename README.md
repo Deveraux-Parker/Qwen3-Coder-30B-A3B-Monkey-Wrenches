@@ -10,7 +10,6 @@ A powerful web-based interface for testing and exploring XML-formatted function 
 - **Real-time XML Parsing**: Instantly parses and validates XML tool calls from model responses
 - **Interactive Testing**: Test function calls with custom tools and see live results
 - **Streaming Support**: Watch responses stream in real-time with token-by-token updates
-- **Beautiful Visualization**: Clean, modern UI with syntax highlighting and formatted output
 
 ### Advanced Features
 - **Custom Tool Builder**: Create and test your own function definitions
